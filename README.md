@@ -1,0 +1,2 @@
+# Comparison-between-Dijkstra-and-Astar-for-motion-planning
+Comparative study of Dijkstra and A* algorithms for autonomous vehicle path planning across the urban road network of Turin using OSMnx. Evaluates time-optimal routes by weighting street lengths by maximum speed limits, analyzing computational efficiency, explored nodes, and visual heatmaps to demonstrate A*'s heuristic advantage in urban routing
